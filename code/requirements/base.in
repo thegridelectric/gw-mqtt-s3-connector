@@ -1,0 +1,4 @@
+pendulum
+paho-mqtt
+pytz
+python-dotenv

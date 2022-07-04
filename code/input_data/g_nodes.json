@@ -1,0 +1,24 @@
+
+{    
+    "dwjess": 
+    {
+        "GNodeAliasList": [
+            "dwjess.isone.nh.orange.1", 
+            "dwjess.isone.nh.orange.1.ta.scada"
+        ]
+    },
+    "dwandy":
+    {
+        "GNodeAliasList": [
+            "dwandy.isone.nh.orange.1", 
+            "dwandy.isone.nh.orange.1.ta.scada"
+        ]
+    },
+    "w":
+    {
+        "GNodeAliasList": [
+            "w.isone.nh.orange.1", 
+            "w.isone.nh.orange.1.ta.scada"
+        ]
+    }
+}
